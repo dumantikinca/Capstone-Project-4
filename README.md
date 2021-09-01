@@ -25,5 +25,4 @@ The Java program was written to assist the company in keeping track of the many 
    * deadline dates
 
 ### Contributors
-This project was worked on individually by myself for the software engineering bootcamp. However, the helpful mentors from Hyperion Development have reviwed the project and 
-commented on it too!
+This project was worked on individually by myself as a student and recieved help from Hishaam, my tutor.
