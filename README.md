@@ -11,18 +11,18 @@ The Java program was written to assist the company in keeping track of the many 
 1. The Java program is to keep track of the many projects on which the business works.
 
 2. Add projects with project details  
-  * number 
-  * name 
-  * details of building 
-  * total amount 
-  * amount paid 
-  * details of customer 
-  * architect and contractor
+   * number 
+   * name 
+   * details of building 
+   * total amount 
+   * amount paid 
+   * details of customer 
+   * architect and contractor
 
 3. Update project information  
-  * fees paid 
-  * contractor details 
-  * deadline dates
+   * fees paid 
+   * contractor details 
+   * deadline dates
 
 ### Contributors
 This project was worked on individually by myself for the software engineering bootcamp. However, the helpful mentors from Hyperion Development have reviwed the project and 
