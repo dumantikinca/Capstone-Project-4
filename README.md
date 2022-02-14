@@ -1,10 +1,10 @@
 # Capstone-Project-4
 
-## Poised Project
+## Project Management System
 
 ### Description
 
-The Java program was written to assist the company in keeping track of the many projects that they work on. The program is designed to be a project management system for a small structural engineering firm called 'Poised'. Poised does the engineering needed to ensure the structural integrity of various buildings.
+The Java program was written to assist the company in keeping track of the many projects that they work on. The program is designed to be a project management system for a small structural engineering firm. The firm does the engineering needed to ensure the structural integrity of various buildings.
 
 ### Functionality
 
